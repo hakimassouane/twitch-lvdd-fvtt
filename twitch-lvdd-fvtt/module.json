@@ -13,6 +13,6 @@
       "name": "English",
       "path": "languages/en.json"
   }],
-  "download": "https://github.com/hakimassouane/twitch-lvdd-fvtt",
-  "manifest": "https://raw.githubusercontent.com/hakimassouane/twitch-lvdd-fvtt/main/module.json"
+  "download": "https://github.com/hakimassouane/twitch-lvdd-fvtt/archive/0.0.1.zip",
+  "manifest": "https://raw.githubusercontent.com/hakimassouane/twitch-lvdd-fvtt/main/twitch-lvdd-fvtt/module.json"
 }
