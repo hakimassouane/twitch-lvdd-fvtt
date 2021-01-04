@@ -1,0 +1,1 @@
+console.log("RELEASE TEST SCRIPT WORKS")
